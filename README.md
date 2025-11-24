@@ -1,7 +1,6 @@
 ## About me
-Born and live in Taipei, Taiwan, R.O.C
+Born and live in Taipei, Taiwan, R.O.C (2004~)
 
 ## Education
-Dept. Statistics & Information Science at FJU
-
-
+Fu Jen Catholic University Major: Statistics and Information Science
+  Micro-Program: Educational Big Data
