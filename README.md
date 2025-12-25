@@ -3,9 +3,10 @@ Github beginner
 Born and live in Taipei, Taiwan, R.O.C (2004~)  
 
 ## Education
-Fu Jen Catholic University Major: Statistics and Information Science
+Fu Jen Catholic University Major: Statistics and Information Science  
 * Micro-Program: Educational Big Data
 
-## Interest
-
-
+## Research Interest
+* Applied Statistics <br>
+* Data Mining <br>
+* Data Analytics for Social Sciences
